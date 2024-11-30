@@ -1,0 +1,14 @@
+node_modules
+
+*.dat
+*.dll
+*.dmp
+*.exe
+*.jpg
+*.ogg
+*.pal
+*.png
+*.so
+*.so.*
+*.ttf
+*.wav

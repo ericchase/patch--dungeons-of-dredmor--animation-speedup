@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "node-html-parser": "^6.1.13"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.14",
+    "@types/node": "^22.10.1"
+  },
+  "scripts": {
+    "backup": "bun __animation__modder/src/backup.ts",
+    "modify": "bun __animation__modder/src/modify.ts"
+  }
+}

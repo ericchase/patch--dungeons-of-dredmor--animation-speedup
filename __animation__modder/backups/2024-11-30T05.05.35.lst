@@ -1,0 +1,867 @@
+sprites\monster\zomby\zomby_atk_d.spr
+sprites\monster\zomby\zomby_atk_l.spr
+sprites\monster\zomby\zomby_atk_r.spr
+sprites\monster\zomby\zomby_atk_u.spr
+sprites\monster\zomby\zomby_die_l.spr
+sprites\monster\zomby\zomby_die_r.spr
+sprites\monster\zomby\zomby_hit_d.spr
+sprites\monster\zomby\zomby_hit_l.spr
+sprites\monster\zomby\zomby_hit_r.spr
+sprites\monster\zomby\zomby_hit_u.spr
+sprites\monster\zomby\zomby_idle_d.spr
+sprites\monster\zomby\zomby_idle_l.spr
+sprites\monster\zomby\zomby_idle_r.spr
+sprites\monster\zomby\zomby_idle_u.spr
+sprites\monster\zomby\zomby_run_d.spr
+sprites\monster\zomby\zomby_run_l.spr
+sprites\monster\zomby\zomby_run_r.spr
+sprites\monster\zomby\zomby_run_u.spr
+sprites\monster\witch\Witch_Atk_Down.spr
+sprites\monster\witch\Witch_Atk_Left.spr
+sprites\monster\witch\Witch_Atk_Right.spr
+sprites\monster\witch\Witch_Atk_Up.spr
+sprites\monster\witch\Witch_Cast.spr
+sprites\monster\witch\Witch_Die.spr
+sprites\monster\witch\Witch_Hit_Down.spr
+sprites\monster\witch\Witch_Hit_Left.spr
+sprites\monster\witch\Witch_Hit_Right.spr
+sprites\monster\witch\Witch_Hit_Up.spr
+sprites\monster\witch\Witch_Walk_Down.spr
+sprites\monster\witch\Witch_Walk_Left.spr
+sprites\monster\witch\Witch_Walk_Right.spr
+sprites\monster\witch\Witch_Walk_Up.spr
+sprites\monster\thrusty\thrusty_atk_d.spr
+sprites\monster\thrusty\thrusty_atk_l.spr
+sprites\monster\thrusty\thrusty_atk_r.spr
+sprites\monster\thrusty\thrusty_atk_u.spr
+sprites\monster\thrusty\thrusty_die.spr
+sprites\monster\thrusty\thrusty_hit_d.spr
+sprites\monster\thrusty\thrusty_hit_l.spr
+sprites\monster\thrusty\thrusty_hit_r.spr
+sprites\monster\thrusty\thrusty_hit_u.spr
+sprites\monster\thrusty\thrusty_run_d.spr
+sprites\monster\thrusty\thrusty_run_l.spr
+sprites\monster\thrusty\thrusty_run_r.spr
+sprites\monster\thrusty\thrusty_run_u.spr
+sprites\monster\swarmy\swarmy_atk_d.spr
+sprites\monster\swarmy\swarmy_atk_l.spr
+sprites\monster\swarmy\swarmy_atk_r.spr
+sprites\monster\swarmy\swarmy_atk_u.spr
+sprites\monster\swarmy\swarmy_die.spr
+sprites\monster\swarmy\swarmy_hit_d.spr
+sprites\monster\swarmy\swarmy_hit_l.spr
+sprites\monster\swarmy\swarmy_hit_r.spr
+sprites\monster\swarmy\swarmy_hit_u.spr
+sprites\monster\swarmy\swarmy_run_d.spr
+sprites\monster\swarmy\swarmy_run_l.spr
+sprites\monster\swarmy\swarmy_run_r.spr
+sprites\monster\swarmy\swarmy_run_u.spr
+sprites\monster\squiddy\squiddy_atk_d.spr
+sprites\monster\squiddy\squiddy_atk_l.spr
+sprites\monster\squiddy\squiddy_atk_r.spr
+sprites\monster\squiddy\squiddy_atk_u.spr
+sprites\monster\squiddy\squiddy_die_l.spr
+sprites\monster\squiddy\squiddy_die_r.spr
+sprites\monster\squiddy\squiddy_hit_d.spr
+sprites\monster\squiddy\squiddy_hit_l.spr
+sprites\monster\squiddy\squiddy_hit_r.spr
+sprites\monster\squiddy\squiddy_hit_u.spr
+sprites\monster\squiddy\squiddy_run_d.spr
+sprites\monster\squiddy\squiddy_run_l.spr
+sprites\monster\squiddy\squiddy_run_r.spr
+sprites\monster\squiddy\squiddy_run_u.spr
+sprites\monster\Robo\Robo_Attack_Down.spr
+sprites\monster\Robo\Robo_Attack_Left.spr
+sprites\monster\Robo\Robo_Attack_right.spr
+sprites\monster\Robo\Robo_Attack_Up.spr
+sprites\monster\Robo\Robo_Cast.spr
+sprites\monster\Robo\Robo_Die.spr
+sprites\monster\Robo\Robo_Hit_Down.spr
+sprites\monster\Robo\Robo_Hit_Left.spr
+sprites\monster\Robo\Robo_Hit_Right.spr
+sprites\monster\Robo\Robo_Hit_Up.spr
+sprites\monster\Robo\Robo_Walk_Down.spr
+sprites\monster\Robo\Robo_Walk_Left.spr
+sprites\monster\Robo\Robo_Walk_Right.spr
+sprites\monster\Robo\Robo_Walk_Up.spr
+sprites\monster\red\red_atk_d.spr
+sprites\monster\red\red_atk_l.spr
+sprites\monster\red\red_atk_r.spr
+sprites\monster\red\red_atk_u.spr
+sprites\monster\red\red_die_l.spr
+sprites\monster\red\red_die_r.spr
+sprites\monster\red\red_hit_d.spr
+sprites\monster\red\red_hit_l.spr
+sprites\monster\red\red_hit_r.spr
+sprites\monster\red\red_hit_u.spr
+sprites\monster\red\red_run_d.spr
+sprites\monster\red\red_run_l.spr
+sprites\monster\red\red_run_r.spr
+sprites\monster\red\red_run_u.spr
+sprites\monster\red\red_spl_l.spr
+sprites\monster\red\red_spl_r.spr
+sprites\monster\pumpkinn\DemPum_Atk_Down.spr
+sprites\monster\pumpkinn\DemPum_Atk_Left.spr
+sprites\monster\pumpkinn\DemPum_Atk_Right.spr
+sprites\monster\pumpkinn\DemPum_Atk_Up.spr
+sprites\monster\pumpkinn\DemPum_Cast.spr
+sprites\monster\pumpkinn\DemPum_Die.spr
+sprites\monster\pumpkinn\DemPum_Hit_Down.spr
+sprites\monster\pumpkinn\DemPum_Hit_Left.spr
+sprites\monster\pumpkinn\DemPum_Hit_Right.spr
+sprites\monster\pumpkinn\DemPum_Hit_Up.spr
+sprites\monster\pumpkinn\DemPum_Walk_Down.spr
+sprites\monster\pumpkinn\DemPum_Walk_Left.spr
+sprites\monster\pumpkinn\DemPum_Walk_Right.spr
+sprites\monster\pumpkinn\DemPum_Walk_Up.spr
+sprites\monster\octo\Octo_Atk_Down.spr
+sprites\monster\octo\Octo_Atk_Left.spr
+sprites\monster\octo\Octo_Atk_Right.spr
+sprites\monster\octo\Octo_Atk_Up.spr
+sprites\monster\octo\Octo_Cast.spr
+sprites\monster\octo\Octo_Die.spr
+sprites\monster\octo\Octo_Hit_Down.spr
+sprites\monster\octo\Octo_Hit_Left.spr
+sprites\monster\octo\Octo_Hit_Right.spr
+sprites\monster\octo\Octo_Hit_Up.spr
+sprites\monster\octo\Octo_Walk_Down.spr
+sprites\monster\octo\Octo_Walk_Left.spr
+sprites\monster\octo\Octo_Walk_Right.spr
+sprites\monster\octo\Octo_Walk_Up.spr
+sprites\monster\mush\mush_atk_d.spr
+sprites\monster\mush\mush_atk_l.spr
+sprites\monster\mush\mush_atk_r.spr
+sprites\monster\mush\mush_atk_u.spr
+sprites\monster\mush\mush_die.spr
+sprites\monster\mush\mush_hit_d.spr
+sprites\monster\mush\mush_hit_l.spr
+sprites\monster\mush\mush_hit_r.spr
+sprites\monster\mush\mush_hit_u.spr
+sprites\monster\mush\mush_run_d.spr
+sprites\monster\mush\mush_run_l.spr
+sprites\monster\mush\mush_run_r.spr
+sprites\monster\mush\mush_run_u.spr
+sprites\monster\mush\mush_spl.spr
+sprites\monster\luck\Luck_Atk_Down.spr
+sprites\monster\luck\Luck_Atk_Left.spr
+sprites\monster\luck\Luck_Atk_Right.spr
+sprites\monster\luck\Luck_Atk_Up.spr
+sprites\monster\luck\Luck_Cast.spr
+sprites\monster\luck\Luck_Die.spr
+sprites\monster\luck\Luck_Hit_Down.spr
+sprites\monster\luck\Luck_Hit_Left.spr
+sprites\monster\luck\Luck_Hit_Right.spr
+sprites\monster\luck\Luck_Hit_Up.spr
+sprites\monster\luck\Luck_Walk_Down.spr
+sprites\monster\luck\Luck_Walk_Left.spr
+sprites\monster\luck\Luck_Walk_Right.spr
+sprites\monster\luck\Luck_Walk_Up.spr
+sprites\monster\lich\Lich_Attack_Down.spr
+sprites\monster\lich\Lich_Attack_Left.spr
+sprites\monster\lich\Lich_Attack_Right.spr
+sprites\monster\lich\Lich_Attack_Up.spr
+sprites\monster\lich\Lich_Cast.spr
+sprites\monster\lich\Lich_Die.spr
+sprites\monster\lich\Lich_Hit_Down.spr
+sprites\monster\lich\Lich_Hit_Left.spr
+sprites\monster\lich\Lich_Hit_Right.spr
+sprites\monster\lich\Lich_Hit_Up.spr
+sprites\monster\lich\Lich_Walk_Down.spr
+sprites\monster\lich\Lich_Walk_Left.spr
+sprites\monster\lich\Lich_Walk_Right.spr
+sprites\monster\lich\Lich_Walk_Up.spr
+sprites\monster\greeny\greeny_atk_d.spr
+sprites\monster\greeny\greeny_atk_l.spr
+sprites\monster\greeny\greeny_atk_r.spr
+sprites\monster\greeny\greeny_atk_u.spr
+sprites\monster\greeny\greeny_die.spr
+sprites\monster\greeny\greeny_hit_d.spr
+sprites\monster\greeny\greeny_hit_l.spr
+sprites\monster\greeny\greeny_hit_r.spr
+sprites\monster\greeny\greeny_hit_u.spr
+sprites\monster\greeny\greeny_run_d.spr
+sprites\monster\greeny\greeny_run_l.spr
+sprites\monster\greeny\greeny_run_r.spr
+sprites\monster\greeny\greeny_run_u.spr
+sprites\monster\golem\Ice_Atk_Down.spr
+sprites\monster\golem\Ice_Atk_Left.spr
+sprites\monster\golem\Ice_Atk_Right.spr
+sprites\monster\golem\Ice_Atk_up.spr
+sprites\monster\golem\Ice_Cast.spr
+sprites\monster\golem\Ice_Die.spr
+sprites\monster\golem\Ice_Hit_Down.spr
+sprites\monster\golem\Ice_Hit_Left.spr
+sprites\monster\golem\Ice_Hit_Right.spr
+sprites\monster\golem\Ice_Hit_Up.spr
+sprites\monster\golem\Ice_Walk_Down.spr
+sprites\monster\golem\Ice_Walk_Left.spr
+sprites\monster\golem\Ice_Walk_Right.spr
+sprites\monster\golem\Ice_Walk_Up.spr
+sprites\monster\fire\Fire_Atk_Down.spr
+sprites\monster\fire\Fire_Atk_Left.spr
+sprites\monster\fire\Fire_Atk_Right.spr
+sprites\monster\fire\Fire_Atk_Up.spr
+sprites\monster\fire\Fire_Cast.spr
+sprites\monster\fire\Fire_Die.spr
+sprites\monster\fire\Fire_Hit_Down.spr
+sprites\monster\fire\Fire_Hit_Left.spr
+sprites\monster\fire\Fire_Hit_Right.spr
+sprites\monster\fire\Fire_Hit_Up.spr
+sprites\monster\fire\Fire_Walk_Down.spr
+sprites\monster\fire\Fire_Walk_Left.spr
+sprites\monster\fire\Fire_Walk_Right.spr
+sprites\monster\fire\Fire_Walk_Up.spr
+sprites\monster\fatty\fatty_atk_d.spr
+sprites\monster\fatty\fatty_atk_l.spr
+sprites\monster\fatty\fatty_atk_r.spr
+sprites\monster\fatty\fatty_atk_u.spr
+sprites\monster\fatty\fatty_bem_d.spr
+sprites\monster\fatty\fatty_bem_l.spr
+sprites\monster\fatty\fatty_bem_r.spr
+sprites\monster\fatty\fatty_bem_u.spr
+sprites\monster\fatty\fatty_die_l.spr
+sprites\monster\fatty\fatty_die_r.spr
+sprites\monster\fatty\fatty_hit_d.spr
+sprites\monster\fatty\fatty_hit_l.spr
+sprites\monster\fatty\fatty_hit_r.spr
+sprites\monster\fatty\fatty_hit_u.spr
+sprites\monster\fatty\fatty_run_d.spr
+sprites\monster\fatty\fatty_run_l.spr
+sprites\monster\fatty\fatty_run_r.spr
+sprites\monster\fatty\fatty_run_u.spr
+sprites\monster\eely\eely_atk_d.spr
+sprites\monster\eely\eely_atk_l.spr
+sprites\monster\eely\eely_atk_r.spr
+sprites\monster\eely\eely_atk_u.spr
+sprites\monster\eely\eely_die_l.spr
+sprites\monster\eely\eely_die_r.spr
+sprites\monster\eely\eely_hit_d.spr
+sprites\monster\eely\eely_hit_l.spr
+sprites\monster\eely\eely_hit_r.spr
+sprites\monster\eely\eely_hit_u.spr
+sprites\monster\eely\eely_run_d.spr
+sprites\monster\eely\eely_run_l.spr
+sprites\monster\eely\eely_run_r.spr
+sprites\monster\eely\eely_run_u.spr
+sprites\monster\eely\eely_spell.spr
+sprites\monster\doctor\Witch_Atk_Down.spr
+sprites\monster\doctor\Witch_Atk_Left.spr
+sprites\monster\doctor\Witch_Atk_Right.spr
+sprites\monster\doctor\Witch_Atk_Up.spr
+sprites\monster\doctor\Witch_Cast.spr
+sprites\monster\doctor\Witch_Die.spr
+sprites\monster\doctor\Witch_Hit_Down.spr
+sprites\monster\doctor\Witch_Hit_Left.spr
+sprites\monster\doctor\Witch_Hit_Right.spr
+sprites\monster\doctor\Witch_Hit_Up.spr
+sprites\monster\doctor\Witch_Walk_Down.spr
+sprites\monster\doctor\Witch_Walk_Left.spr
+sprites\monster\doctor\Witch_Walk_Right.spr
+sprites\monster\doctor\Witch_Walk_Up.spr
+sprites\monster\djinn\Djinn_Attack_Down.spr
+sprites\monster\djinn\Djinn_Attack_Left.spr
+sprites\monster\djinn\Djinn_Attack_Right.spr
+sprites\monster\djinn\Djinn_Attack_Up.spr
+sprites\monster\djinn\Djinn_Cast.spr
+sprites\monster\djinn\Djinn_Die.spr
+sprites\monster\djinn\Djinn_Hit_Down.spr
+sprites\monster\djinn\Djinn_Hit_Left.spr
+sprites\monster\djinn\Djinn_Hit_Right.spr
+sprites\monster\djinn\Djinn_Hit_Up.spr
+sprites\monster\djinn\Djinn_Walk_Down.spr
+sprites\monster\djinn\Djinn_Walk_Left.spr
+sprites\monster\djinn\Djinn_Walk_Right.spr
+sprites\monster\djinn\Djinn_Walk_Up.spr
+sprites\monster\diggle\diggle_atk_d.spr
+sprites\monster\diggle\diggle_atk_l.spr
+sprites\monster\diggle\diggle_atk_r.spr
+sprites\monster\diggle\diggle_atk_u.spr
+sprites\monster\diggle\diggle_die_l.spr
+sprites\monster\diggle\diggle_die_r.spr
+sprites\monster\diggle\diggle_hit_d.spr
+sprites\monster\diggle\diggle_hit_l.spr
+sprites\monster\diggle\diggle_hit_r.spr
+sprites\monster\diggle\diggle_hit_u.spr
+sprites\monster\diggle\diggle_idl_d.spr
+sprites\monster\diggle\diggle_idl_l.spr
+sprites\monster\diggle\diggle_idl_r.spr
+sprites\monster\diggle\diggle_idl_u.spr
+sprites\monster\diggle\diggle_run_d.spr
+sprites\monster\diggle\diggle_run_l.spr
+sprites\monster\diggle\diggle_run_r.spr
+sprites\monster\diggle\diggle_run_u.spr
+sprites\monster\deth\deth_atk_d.spr
+sprites\monster\deth\deth_atk_l.spr
+sprites\monster\deth\deth_atk_r.spr
+sprites\monster\deth\deth_atk_u.spr
+sprites\monster\deth\deth_die_d.spr
+sprites\monster\deth\deth_hit_d.spr
+sprites\monster\deth\deth_hit_l.spr
+sprites\monster\deth\deth_hit_r.spr
+sprites\monster\deth\deth_hit_u.spr
+sprites\monster\deth\deth_idle_d.spr
+sprites\monster\deth\deth_idle_l.spr
+sprites\monster\deth\deth_idle_r.spr
+sprites\monster\deth\deth_idle_u.spr
+sprites\monster\deth\deth_run_d.spr
+sprites\monster\deth\deth_run_l.spr
+sprites\monster\deth\deth_run_r.spr
+sprites\monster\deth\deth_run_u.spr
+sprites\monster\deth\deth_spl_d.spr
+sprites\monster\deth\deth_spl_l.spr
+sprites\monster\deth\deth_spl_r.spr
+sprites\monster\deth\deth_spl_u.spr
+sprites\monster\deth\raven_fly_l.spr
+sprites\monster\deth\raven_fly_r.spr
+sprites\monster\deth\raven_idle_l.spr
+sprites\monster\deth\raven_idle_r.spr
+sprites\monster\carrotty\carrotty_atk_d.spr
+sprites\monster\carrotty\carrotty_atk_l.spr
+sprites\monster\carrotty\carrotty_atk_r.spr
+sprites\monster\carrotty\carrotty_atk_u.spr
+sprites\monster\carrotty\carrotty_die_l.spr
+sprites\monster\carrotty\carrotty_die_r.spr
+sprites\monster\carrotty\carrotty_hit_d.spr
+sprites\monster\carrotty\carrotty_hit_l.spr
+sprites\monster\carrotty\carrotty_hit_r.spr
+sprites\monster\carrotty\carrotty_hit_u.spr
+sprites\monster\carrotty\carrotty_idle_d.spr
+sprites\monster\carrotty\carrotty_idle_l.spr
+sprites\monster\carrotty\carrotty_idle_r.spr
+sprites\monster\carrotty\carrotty_idle_u.spr
+sprites\monster\carrotty\carrotty_walk_d.spr
+sprites\monster\carrotty\carrotty_walk_l.spr
+sprites\monster\carrotty\carrotty_walk_r.spr
+sprites\monster\carrotty\carrotty_walk_u.spr
+sprites\monster\brax\brax_atk_d.spr
+sprites\monster\brax\brax_atk_l.spr
+sprites\monster\brax\brax_atk_r.spr
+sprites\monster\brax\brax_atk_u.spr
+sprites\monster\brax\brax_die.spr
+sprites\monster\brax\brax_hit_d.spr
+sprites\monster\brax\brax_hit_l.spr
+sprites\monster\brax\brax_hit_r.spr
+sprites\monster\brax\brax_hit_u.spr
+sprites\monster\brax\brax_run_d.spr
+sprites\monster\brax\brax_run_l.spr
+sprites\monster\brax\brax_run_r.spr
+sprites\monster\brax\brax_run_u.spr
+sprites\monster\blobby\blobby_atk_d.spr
+sprites\monster\blobby\blobby_atk_l.spr
+sprites\monster\blobby\blobby_atk_r.spr
+sprites\monster\blobby\blobby_atk_u.spr
+sprites\monster\blobby\blobby_die.spr
+sprites\monster\blobby\blobby_hit_d.spr
+sprites\monster\blobby\blobby_hit_l.spr
+sprites\monster\blobby\blobby_hit_r.spr
+sprites\monster\blobby\blobby_hit_u.spr
+sprites\monster\blobby\blobby_run_d.spr
+sprites\monster\blobby\blobby_run_l.spr
+sprites\monster\blobby\blobby_run_r.spr
+sprites\monster\blobby\blobby_run_u.spr
+sprites\monster\batty\batty_atk_d.spr
+sprites\monster\batty\batty_atk_l.spr
+sprites\monster\batty\batty_atk_r.spr
+sprites\monster\batty\batty_atk_u.spr
+sprites\monster\batty\batty_die_l.spr
+sprites\monster\batty\batty_die_r.spr
+sprites\monster\batty\batty_hit_d.spr
+sprites\monster\batty\batty_hit_l.spr
+sprites\monster\batty\batty_hit_r.spr
+sprites\monster\batty\batty_hit_u.spr
+sprites\monster\batty\batty_run_d.spr
+sprites\monster\batty\batty_run_l.spr
+sprites\monster\batty\batty_run_r.spr
+sprites\monster\batty\batty_run_u.spr
+sprites\monster\batty\batty_test.spr
+sprites\monster\thrusty\thrusty_atk_d.xml
+sprites\monster\thrusty\thrusty_atk_l.xml
+sprites\monster\thrusty\thrusty_atk_r.xml
+sprites\monster\thrusty\thrusty_atk_u.xml
+sprites\monster\raven\raven_atk_d.xml
+sprites\monster\raven\raven_atk_l.xml
+sprites\monster\raven\raven_atk_r.xml
+sprites\monster\raven\raven_atk_u.xml
+sprites\monster\raven\raven_cast.xml
+sprites\monster\raven\raven_die.xml
+sprites\monster\raven\raven_fly_d.xml
+sprites\monster\raven\raven_fly_l.xml
+sprites\monster\raven\raven_fly_r.xml
+sprites\monster\raven\raven_fly_u.xml
+sprites\monster\greeny_colored\greeny_atk_d.xml
+sprites\monster\greeny_colored\greeny_atk_l.xml
+sprites\monster\greeny_colored\greeny_atk_r.xml
+sprites\monster\greeny_colored\greeny_atk_u.xml
+sprites\monster\greeny_colored\greeny_die.xml
+sprites\monster\greeny_colored\greeny_hit_d.xml
+sprites\monster\greeny_colored\greeny_hit_l.xml
+sprites\monster\greeny_colored\greeny_hit_r.xml
+sprites\monster\greeny_colored\greeny_hit_u.xml
+sprites\monster\greeny_colored\greeny_run_d.xml
+sprites\monster\greeny_colored\greeny_run_l.xml
+sprites\monster\greeny_colored\greeny_run_r.xml
+sprites\monster\greeny_colored\greeny_run_u.xml
+sprites\monster\diggle\diggle_dig.xml
+sprites\monster\diggle\diggle_drink.xml
+sprites\monster\diggle\diggle_eat.xml
+sprites\monster\diggle\diggle_levelup_female.xml
+sprites\monster\diggle\diggle_levelup_male.xml
+sprites\monster\diggle\diggle_long_idle.xml
+sprites\monster\diggle\diggle_long_idle_intro.xml
+sprites\monster\diggle\diggle_pop.xml
+sprites\monster\diggle\diggle_vanish.xml
+sprites\monster\diggle\diggle_wand_l.xml
+sprites\monster\diggle\diggle_wand_r.xml
+sprites\monster\batty_color\batty_atk_d.xml
+sprites\monster\batty_color\batty_atk_l.xml
+sprites\monster\batty_color\batty_atk_r.xml
+sprites\monster\batty_color\batty_atk_u.xml
+sprites\monster\batty_color\batty_die_l.xml
+sprites\monster\batty_color\batty_die_r.xml
+sprites\monster\batty_color\batty_hit_d.xml
+sprites\monster\batty_color\batty_hit_l.xml
+sprites\monster\batty_color\batty_hit_r.xml
+sprites\monster\batty_color\batty_hit_u.xml
+sprites\monster\batty_color\batty_run_d.xml
+sprites\monster\batty_color\batty_run_l.xml
+sprites\monster\batty_color\batty_run_r.xml
+sprites\monster\batty_color\batty_run_u.xml
+sprites\monster\batty_color\batty_test.xml
+expansion3\sprites\monster\vladiggle\vladiggle_atk_d.xml
+expansion3\sprites\monster\vladiggle\vladiggle_atk_l.xml
+expansion3\sprites\monster\vladiggle\vladiggle_atk_r.xml
+expansion3\sprites\monster\vladiggle\vladiggle_atk_u.xml
+expansion3\sprites\monster\vladiggle\vladiggle_die_l.xml
+expansion3\sprites\monster\vladiggle\vladiggle_die_r.xml
+expansion3\sprites\monster\vladiggle\vladiggle_hit_d.xml
+expansion3\sprites\monster\vladiggle\vladiggle_hit_l.xml
+expansion3\sprites\monster\vladiggle\vladiggle_hit_r.xml
+expansion3\sprites\monster\vladiggle\vladiggle_hit_u.xml
+expansion3\sprites\monster\vladiggle\vladiggle_idl_d.xml
+expansion3\sprites\monster\vladiggle\vladiggle_idl_l.xml
+expansion3\sprites\monster\vladiggle\vladiggle_idl_r.xml
+expansion3\sprites\monster\vladiggle\vladiggle_idl_u.xml
+expansion3\sprites\monster\vladiggle\vladiggle_run_d.xml
+expansion3\sprites\monster\vladiggle\vladiggle_run_l.xml
+expansion3\sprites\monster\vladiggle\vladiggle_run_r.xml
+expansion3\sprites\monster\vladiggle\vladiggle_run_u.xml
+expansion3\sprites\monster\vladiggle\vladiggle_wand_l.xml
+expansion3\sprites\monster\vladiggle\vladiggle_wand_r.xml
+expansion3\sprites\monster\samurai\Samurai_atk_d.xml
+expansion3\sprites\monster\samurai\Samurai_atk_l.xml
+expansion3\sprites\monster\samurai\Samurai_atk_r.xml
+expansion3\sprites\monster\samurai\Samurai_atk_u.xml
+expansion3\sprites\monster\samurai\Samurai_cast.xml
+expansion3\sprites\monster\samurai\Samurai_death.xml
+expansion3\sprites\monster\samurai\Samurai_walk_d.xml
+expansion3\sprites\monster\samurai\Samurai_walk_l.xml
+expansion3\sprites\monster\samurai\Samurai_walk_r.xml
+expansion3\sprites\monster\samurai\Samurai_walk_u.xml
+expansion3\sprites\monster\samedi\samedi_atk_d.xml
+expansion3\sprites\monster\samedi\samedi_atk_l.xml
+expansion3\sprites\monster\samedi\samedi_atk_r.xml
+expansion3\sprites\monster\samedi\samedi_atk_u.xml
+expansion3\sprites\monster\samedi\samedi_cast.xml
+expansion3\sprites\monster\samedi\samedi_death.xml
+expansion3\sprites\monster\samedi\samedi_walk_d.xml
+expansion3\sprites\monster\samedi\samedi_walk_l.xml
+expansion3\sprites\monster\samedi\samedi_walk_r.xml
+expansion3\sprites\monster\samedi\samedi_walk_u.xml
+expansion3\sprites\monster\rutabaga\rutabaga_attack_d.xml
+expansion3\sprites\monster\rutabaga\rutabaga_attack_l.xml
+expansion3\sprites\monster\rutabaga\rutabaga_attack_r.xml
+expansion3\sprites\monster\rutabaga\rutabaga_attack_u.xml
+expansion3\sprites\monster\rutabaga\rutabaga_cast.xml
+expansion3\sprites\monster\rutabaga\rutabaga_death.xml
+expansion3\sprites\monster\rutabaga\rutabaga_walk_d.xml
+expansion3\sprites\monster\rutabaga\rutabaga_walk_l.xml
+expansion3\sprites\monster\rutabaga\rutabaga_walk_r.xml
+expansion3\sprites\monster\rutabaga\rutabaga_walk_u.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_atk_d.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_atk_l.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_atk_r.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_atk_u.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_cast.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_death.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_walk_d.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_walk_l.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_walk_r.xml
+expansion3\sprites\monster\fruit_treant\fruit_treant_walk_u.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_atk_d.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_atk_l.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_atk_r.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_atk_u.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_cast.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_death.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_idle_d.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_idle_l.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_idle_r.xml
+expansion3\sprites\monster\crustaceanoid\crustaceanoid_idle_u.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_atk_d.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_atk_l.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_atk_r.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_atk_u.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_cast.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_die.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_idle_d.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_idle_l.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_idle_r.xml
+expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_idle_u.xml
+expansion3\sprites\monster\ABBW\ABBW_atk_d.xml
+expansion3\sprites\monster\ABBW\ABBW_atk_l.xml
+expansion3\sprites\monster\ABBW\ABBW_atk_r.xml
+expansion3\sprites\monster\ABBW\ABBW_atk_u.xml
+expansion3\sprites\monster\ABBW\ABBW_cast.xml
+expansion3\sprites\monster\ABBW\ABBW_death.xml
+expansion3\sprites\monster\ABBW\ABBW_walk_d.xml
+expansion3\sprites\monster\ABBW\ABBW_walk_l.xml
+expansion3\sprites\monster\ABBW\ABBW_walk_r.xml
+expansion3\sprites\monster\ABBW\ABBW_walk_u.xml
+expansion\sprites\monster\wight\wight_atk_d.xml
+expansion\sprites\monster\wight\wight_atk_l.xml
+expansion\sprites\monster\wight\wight_atk_r.xml
+expansion\sprites\monster\wight\wight_atk_u.xml
+expansion\sprites\monster\wight\wight_cast.xml
+expansion\sprites\monster\wight\wight_die.xml
+expansion\sprites\monster\wight\wight_idle_d.xml
+expansion\sprites\monster\wight\wight_idle_l.xml
+expansion\sprites\monster\wight\wight_idle_r.xml
+expansion\sprites\monster\wight\wight_idle_u.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_atk_d.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_atk_l.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_atk_r.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_atk_u.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_cast.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_death.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_idle_d.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_idle_l.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_idle_r.xml
+expansion\sprites\monster\tuber_beholder\tuber_beholder_idle_u.xml
+expansion\sprites\monster\statue\statue_atk_d.xml
+expansion\sprites\monster\statue\statue_atk_l.xml
+expansion\sprites\monster\statue\statue_atk_r.xml
+expansion\sprites\monster\statue\statue_atk_u.xml
+expansion\sprites\monster\statue\statue_cast.xml
+expansion\sprites\monster\statue\statue_death.xml
+expansion\sprites\monster\statue\statue_walk_d.xml
+expansion\sprites\monster\statue\statue_walk_l.xml
+expansion\sprites\monster\statue\statue_walk_r.xml
+expansion\sprites\monster\statue\statue_walk_u.xml
+expansion\sprites\monster\slick\slick_atk_d.xml
+expansion\sprites\monster\slick\slick_atk_l.xml
+expansion\sprites\monster\slick\slick_atk_r.xml
+expansion\sprites\monster\slick\slick_atk_u.xml
+expansion\sprites\monster\slick\slick_cast.xml
+expansion\sprites\monster\slick\slick_die.xml
+expansion\sprites\monster\slick\slick_idle_d.xml
+expansion\sprites\monster\slick\slick_idle_l.xml
+expansion\sprites\monster\slick\slick_idle_r.xml
+expansion\sprites\monster\slick\slick_idle_u.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_atk_d.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_atk_l.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_atk_r.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_atk_u.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_cast.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_die.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_walk_d.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_walk_l.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_walk_r.xml
+expansion\sprites\monster\muscle_diggle\musclediggle_walk_u.xml
+expansion\sprites\monster\mummy\mum_atk_d.xml
+expansion\sprites\monster\mummy\mum_atk_l.xml
+expansion\sprites\monster\mummy\mum_atk_r.xml
+expansion\sprites\monster\mummy\mum_atk_u.xml
+expansion\sprites\monster\mummy\mum_cast.xml
+expansion\sprites\monster\mummy\mum_death.xml
+expansion\sprites\monster\mummy\mum_walk_d.xml
+expansion\sprites\monster\mummy\mum_walk_l.xml
+expansion\sprites\monster\mummy\mum_walk_r.xml
+expansion\sprites\monster\mummy\mum_walk_u.xml
+expansion\sprites\monster\gnome\gnome_atk_d.xml
+expansion\sprites\monster\gnome\gnome_atk_l.xml
+expansion\sprites\monster\gnome\gnome_atk_r.xml
+expansion\sprites\monster\gnome\gnome_atk_u.xml
+expansion\sprites\monster\gnome\gnome_cast.xml
+expansion\sprites\monster\gnome\gnome_die.xml
+expansion\sprites\monster\gnome\gnome_idle_d.xml
+expansion\sprites\monster\gnome\gnome_idle_l.xml
+expansion\sprites\monster\gnome\gnome_idle_r.xml
+expansion\sprites\monster\gnome\gnome_idle_u.xml
+expansion\sprites\monster\fish\fish_atk_d.xml
+expansion\sprites\monster\fish\fish_atk_l.xml
+expansion\sprites\monster\fish\fish_atk_r.xml
+expansion\sprites\monster\fish\fish_atk_u.xml
+expansion\sprites\monster\fish\fish_die_l.xml
+expansion\sprites\monster\fish\fish_die_r.xml
+expansion\sprites\monster\fish\fish_hit_d.xml
+expansion\sprites\monster\fish\fish_hit_l.xml
+expansion\sprites\monster\fish\fish_hit_r.xml
+expansion\sprites\monster\fish\fish_hit_u.xml
+expansion\sprites\monster\fish\fish_spl_d.xml
+expansion\sprites\monster\fish\fish_spl_l.xml
+expansion\sprites\monster\fish\fish_spl_r.xml
+expansion\sprites\monster\fish\fish_walk_d.xml
+expansion\sprites\monster\fish\fish_walk_l.xml
+expansion\sprites\monster\fish\fish_walk_r.xml
+expansion\sprites\monster\fish\fish_walk_u.xml
+expansion\sprites\monster\elm\elm_atk_d.xml
+expansion\sprites\monster\elm\elm_atk_l.xml
+expansion\sprites\monster\elm\elm_atk_r.xml
+expansion\sprites\monster\elm\elm_atk_u.xml
+expansion\sprites\monster\elm\elm_cast.xml
+expansion\sprites\monster\elm\elm_die.xml
+expansion\sprites\monster\elm\elm_idle_d.xml
+expansion\sprites\monster\elm\elm_idle_l.xml
+expansion\sprites\monster\elm\elm_idle_r.xml
+expansion\sprites\monster\elm\elm_idle_u.xml
+expansion\sprites\monster\diggle_dig\diggle_dig.xml
+expansion\sprites\monster\diggle_dig\diggle_pop.xml
+expansion\sprites\monster\diggle\diggle_drink.xml
+expansion\sprites\monster\diggle\diggle_eat.xml
+expansion\sprites\monster\diggle\diggle_levelup_female.xml
+expansion\sprites\monster\diggle\diggle_levelup_male.xml
+expansion\sprites\monster\diggle\diggle_long_idle.xml
+expansion\sprites\monster\diggle\diggle_long_idle_intro.xml
+expansion\sprites\monster\diggle\diggle_vanish.xml
+expansion\sprites\monster\agar\agar_atk_d.xml
+expansion\sprites\monster\agar\agar_atk_l.xml
+expansion\sprites\monster\agar\agar_atk_r.xml
+expansion\sprites\monster\agar\agar_atk_u.xml
+expansion\sprites\monster\agar\agar_death.xml
+expansion\sprites\monster\agar\agar_idle_d.xml
+expansion\sprites\monster\agar\agar_idle_l.xml
+expansion\sprites\monster\agar\agar_idle_r.xml
+expansion\sprites\monster\agar\agar_idle_u.xml
+expansion\sprites\monster\aeth\aeth_atk_d.xml
+expansion\sprites\monster\aeth\aeth_atk_l.xml
+expansion\sprites\monster\aeth\aeth_atk_r.xml
+expansion\sprites\monster\aeth\aeth_atk_u.xml
+expansion\sprites\monster\aeth\aeth_cast.xml
+expansion\sprites\monster\aeth\aeth_dead.xml
+expansion\sprites\monster\aeth\aeth_hit_d.xml
+expansion\sprites\monster\aeth\aeth_hit_l.xml
+expansion\sprites\monster\aeth\aeth_hit_r.xml
+expansion\sprites\monster\aeth\aeth_hit_u.xml
+expansion\sprites\monster\aeth\aeth_idle_d.xml
+expansion\sprites\monster\aeth\aeth_idle_l.xml
+expansion\sprites\monster\aeth\aeth_idle_r.xml
+expansion\sprites\monster\aeth\aeth_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_die_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_die_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_hit_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_hit_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_hit_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_hit_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_idl_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_idl_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_idl_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_idl_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_run_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_run_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_run_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_run_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_wand_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\vladiggle\vladiggle_wand_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samurai\Samurai_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\samedi\samedi_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_attack_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_attack_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_attack_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_attack_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\rutabaga\rutabaga_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\fruit_treant\fruit_treant_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\crustaceanoid\crustaceanoid_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_die.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\cloud_gremlin\cloud_gremlin_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion3\sprites\monster\ABBW\ABBW_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_die.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\wight\wight_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\tuber_beholder\tuber_beholder_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\statue\statue_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_die.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\slick\slick_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_die.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\muscle_diggle\musclediggle_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\mummy\mum_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_die.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\gnome\gnome_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_die_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_die_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_hit_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_hit_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_hit_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_hit_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_spl_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_spl_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_spl_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_walk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_walk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_walk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\fish\fish_walk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_die.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\elm\elm_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle_dig\diggle_dig.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle_dig\diggle_pop.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle\diggle_drink.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle\diggle_eat.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle\diggle_levelup_female.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle\diggle_levelup_male.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle\diggle_long_idle.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle\diggle_long_idle_intro.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\diggle\diggle_vanish.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_death.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\agar\agar_idle_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_atk_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_atk_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_atk_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_atk_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_cast.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_dead.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_hit_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_hit_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_hit_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_hit_u.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_idle_d.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_idle_l.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_idle_r.xml
+Dungeons of Dredmor.app\Contents\MacOS\expansion\sprites\monster\aeth\aeth_idle_u.xml
