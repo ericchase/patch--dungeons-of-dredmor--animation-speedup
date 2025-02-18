@@ -1,5 +1,9 @@
 Please read `__animation__modder/README.md`.
 
+## Demo Videos
+
+https://ericchase.github.io/patch--dungeons-of-dredmor--animation-speedup/
+
 ## Usage
 
 To use these scripts, you will need to copy the files from this repository into your `Dungeons of Dredmor` folder, wherever that may be.
