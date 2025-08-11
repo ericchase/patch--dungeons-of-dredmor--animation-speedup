@@ -11,8 +11,13 @@ export async function Async_Modify_SPR() {
 
   const Dungeons_of_Dredmor_path = NodePlatform_PathObject_Absolute_Class(Dungeons_of_Dredmor).join();
 
+  // {fhero,hero,monster}
+  // modifying only the monsters will result in a significant speedup of the
+  // game. speeding up the heroes might result in gameplay that's too fast. if
+  // you find the game too fast, then replace '{fhero,hero,monster}' below with
+  // just 'monster'. also do this in the `modify_xml.ts` file.
   const match_paths = [
-    ...(await Array.fromAsync(Async_BunPlatform_Glob_Scan_Generator(Dungeons_of_Dredmor_path, '**/sprites/monster/**/*.spr', { absolute_paths: true }))),
+    ...(await Array.fromAsync(Async_BunPlatform_Glob_Scan_Generator(Dungeons_of_Dredmor_path, '**/sprites/{fhero,hero,monster}/**/*.spr', { absolute_paths: true }))),
     //
   ];
 

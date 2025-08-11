@@ -13,7 +13,7 @@ export async function Async_Modify_XML() {
   const Dungeons_of_Dredmor_path = NodePlatform_PathObject_Absolute_Class(Dungeons_of_Dredmor).join();
 
   const match_paths = [
-    ...(await Array.fromAsync(Async_BunPlatform_Glob_Scan_Generator(Dungeons_of_Dredmor_path, '**/sprites/monster/**/*.xml', { absolute_paths: true }))),
+    ...(await Array.fromAsync(Async_BunPlatform_Glob_Scan_Generator(Dungeons_of_Dredmor_path, '**/sprites/{fhero,hero,monster}/**/*.xml', { absolute_paths: true }))),
     //
   ];
 
