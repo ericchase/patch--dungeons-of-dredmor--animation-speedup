@@ -1,0 +1,9 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "build": "",
+    "dev": "",
+    "backup": "bun run src/script-backup.ts",
+    "modify": "bun run src/script-modify.ts"
+  }
+}

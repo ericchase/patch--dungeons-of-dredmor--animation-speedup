@@ -1,13 +1,20 @@
 {
-  "dependencies": {
-    "node-html-parser": "^6.1.13"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "@types/bun": "^1.1.14",
-    "@types/node": "^22.10.1"
+    "@types/adm-zip": "0.5.7",
+    "@types/bun": "1.2.20",
+    "@types/chrome": "0.1.3",
+    "@types/node": "24.2.1",
+    "adm-zip": "0.5.16",
+    "tree-kill": "1.2.2",
+    "xxhash-wasm": "1.1.0"
   },
   "scripts": {
-    "backup": "bun __animation__modder/src/backup.ts",
-    "modify": "bun __animation__modder/src/modify.ts"
-  }
+    "build": "",
+    "dev": "",
+    "format": "bunx prettier --write .",
+    "backup": "bun run src/script-backup.ts",
+    "modify": "bun run src/script-modify.ts"
+  },
+  "type": "module"
 }
